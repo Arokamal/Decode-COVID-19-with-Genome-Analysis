@@ -1,6 +1,9 @@
 # **1. Filtered required article:**
 **Among 10000 articles, found only 606 articles related to covid19 containing required keywords.**
 
+**keywords_cov = ["sars-cov-2","sars","cov-2","2019-ncov","ncov","cov","covid19","covid","corona",
+             "coronavirus"]**
+
 # **2. Word Cloud: Articles Related to SAR-Cov-2:**
 
 ![image](https://user-images.githubusercontent.com/80167074/209726867-c4c29eef-b75f-406f-9781-60a1cd8f9020.png)
