@@ -1,5 +1,5 @@
 # **1. Filtered required article:**
-**Among 10000 articles found only 606 articles related to covid19 containing required keywords.**
+**Among 10000 articles, found only 606 articles related to covid19 containing required keywords.**
 
 # **2. Word Cloud: Articles Related to SAR-Cov-2:**
 
