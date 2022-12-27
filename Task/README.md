@@ -41,6 +41,6 @@
 -	T-SNE clustering of LDA topics.
 
 
-# Results are available in 'Results' folder.
+# Results are available in 'Results' folder and in 'Report' folder ->.pdf.
 
 
