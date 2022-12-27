@@ -30,5 +30,17 @@
 -	Created word cloud to check frequently used words or phrases in the corpus.
 
 # Topic Extraction (Latent Dirichlet Allocation):
+-	Built LDA model to extract topics and coherence model to check the c_v coherence score to select appropriate topic number.
+-	Checked perplexity of my LDA Model.
+-	Extracted meaning full words for topics.
+-	LDA visualization.
+-	Checked topic per document with bar graph.
+
+# T-SNE:
+-	Generated document topic matrix.
+-	T-SNE clustering of LDA topics.
+
+
+# Results are available in 'Result' folder in repository.
 
 
