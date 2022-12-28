@@ -42,7 +42,7 @@
 
 
 # **6. Topic per Document:**
-![image](https://user-images.githubusercontent.com/80167074/209727348-4af9e927-f29e-4eb1-9c75-67a578eab7f7.png)
+![image](https://user-images.githubusercontent.com/80167074/209799505-129990b0-cb12-49a9-8efe-8a5de96c8c41.png)
 
 **1.The left figure shows that there are very few articles who covered all the topics. 3rd and 4th topic are mostly present in many articles.**
 
