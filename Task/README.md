@@ -1,4 +1,7 @@
-# Notebook link:- 📑 https://www.kaggle.com/code/vitb19mim10100/covid19-cord-ner
+# Notebook links:- 📑 https://www.kaggle.com/code/vitb19mim10100/covid19-cord-ner 
+
+# https://www.kaggle.com/code/vitb19mim10100/covid-19-cord-ner-information-extraction-q-a
+
 # WORKFLOW OF THE NOTEBOOK:
 1.	Text Cleaning and Preprocessing
 2.	Article matching and Deep Cleaning
