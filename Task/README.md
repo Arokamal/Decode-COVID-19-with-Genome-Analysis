@@ -2,11 +2,12 @@
 
 # https://www.kaggle.com/code/vitb19mim10100/covid-19-cord-ner-information-extraction-q-a
 
-# WORKFLOW OF THE NOTEBOOK:
+# i. WORKFLOW OF THE NOTEBOOK 1: (Covid19-CORD-NER)
 1.	Text Cleaning and Preprocessing
 2.	Article matching and Deep Cleaning
 3.	Topic Extraction (Latent Dirichlet Allocation)
 4.	T-SNE
+5.  Semantic-Based Search
 
 # Text Cleaning and Preprocessing:
 -	First, imported 10000 rows from the json file (“CORD-NER-full.json”). 
@@ -42,6 +43,35 @@
 # T-SNE:
 -	Generated document topic matrix.
 -	T-SNE clustering of LDA topics.
+
+# Semantic-Based Search:
+-	Duplicates and Null values.
+-	Dropping non-English articles.
+-	Spacy Parser and Tokenizer
+-	Sentence Tokenization
+-	Word2vec Training
+-	Ranking documents
+-	Saving the model and the dataframe
+
+# ii. WORKFLOW OF MY NOTEBOOK 2: (COVID-19-CORD-NER-information-extraction-Q&A)
+1.	NER Extraction from Text
+2.	Dependency parses
+3.	Question-Answering
+
+# NER Extraction from Text:
+-	spaCy based imports
+-	NER extraction using Spacy library
+-	Closer look at what spaCy is doing when it performs named entity recognition
+-	Finding same entity texts
+
+# Dependency parses:
+-	Encoding grammatical information by using spaCy's dependency visualizer.
+-	Identifying verbs + direct objects that are grammatically linked to a location.
+-	Identifying all the actions related to a single city, Wuhan.
+
+# Question-Answering:
+-	Downloaded a transformer model that's already been trained on SQuAD from the Huggingface model repository.
+-	Performed queries
 
 
 # Results are available in 'Results' folder and in 'Report' folder ->.pdf.
